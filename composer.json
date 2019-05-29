@@ -1,0 +1,23 @@
+{
+    "name": "smartCode/smartMutex",
+    "type": "library",
+    "description": "smartMutex is a PHP mutex tool library",
+    "keywords": ["mutex", "yii mutex", "php mutex"],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JiangShen",
+            "email": "305460883@qq.com",
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+    },
+    "autoload": {
+        "files": ["src/functions_include.php"],
+        "psr-4": {
+            "smartMutex\\": "src/"
+        }
+    }
+}
