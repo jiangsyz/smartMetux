@@ -1,6 +1,6 @@
 <?php
 //Yii框架下的互斥量组件,利用redis模拟互斥量
-namespace smartCode\smartMutex;
+namespace smartcode\smartmutex;
 //====================================================
 class smartMutex{
 	//yii框架的redis连接句柄

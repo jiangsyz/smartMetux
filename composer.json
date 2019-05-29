@@ -1,5 +1,5 @@
 {
-    "name": "smartCode/smartMutex",
+    "name": "smartcode/smartmutex",
     "type": "library",
     "description": "smartMutex is a PHP mutex tool library",
     "keywords": ["mutex", "yii mutex", "php mutex"],
